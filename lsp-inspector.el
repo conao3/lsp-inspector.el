@@ -25,6 +25,9 @@
 
 ;; Inspector of LSP messaging for lsp-mode.
 
+;; Emacs version of Language Server Protocol Inspector.
+;;   https://github.com/Microsoft/language-server-protocol-inspector
+
 
 ;;; Code:
 
